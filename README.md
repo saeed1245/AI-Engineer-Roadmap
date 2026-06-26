@@ -8,3 +8,5 @@ Learned: data types, variables, math functions, the round() function, f-string f
 Learned: if/else statements and conditionals. Built a program to calculate a restaurant bill (with conditional logic for tip/discount rules).
 ## Day 4
 Learned: lists. Built a Rock, Paper, Scissors game using list indexing for ASCII art and random choice for computer moves.
+## Day 5
+Learned: for loops. Built a random password generator using loops and the random module.
