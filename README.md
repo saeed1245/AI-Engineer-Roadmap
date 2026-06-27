@@ -10,3 +10,5 @@ Learned: if/else statements and conditionals. Built a program to calculate a res
 Learned: lists. Built a Rock, Paper, Scissors game using list indexing for ASCII art and random choice for computer moves.
 ## Day 5
 Learned: for loops. Built a random password generator using loops and the random module.
+## Day 6
+Learned: functions and while loops. Practiced using Reeborg's World — solved Hurdle challenges 1 to 4 and the Maze project by combining functions, while loops, and if/elif/else logic to navigate the robot.
