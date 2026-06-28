@@ -24,7 +24,5 @@ Learned: for loops. Built a random password generator using loops and the random
 
 Learned: functions and while loops. Practiced using Reeborg's World — solved Hurdle challenges 1 to 4 and the Maze project by combining functions, while loops, and if/elif/else logic to navigate the robot.
 
-Day 7
-
+## Day 7
 Learned: reviewed while loops, for loops, if/elif/else, and lists by building a Hangman game.
-
