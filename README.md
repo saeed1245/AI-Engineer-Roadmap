@@ -26,3 +26,6 @@ Learned: functions and while loops. Practiced using Reeborg's World — solved H
 
 ## Day 7
 Learned: reviewed while loops, for loops, if/elif/else, and lists by building a Hangman game.
+
+## Day 8
+Learned: built a Caesar Cipher program to encrypt and decrypt text using lists, loops, and the alphabet shift technique.
