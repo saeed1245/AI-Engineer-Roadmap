@@ -29,3 +29,6 @@ Learned: reviewed while loops, for loops, if/elif/else, and lists by building a 
 
 ## Day 8
 Learned: built a Caesar Cipher program to encrypt and decrypt text using lists, loops, and the alphabet shift technique.
+
+## Day 9
+Learned: dictionaries and nesting — storing and accessing data using key-value pairs, and nesting dictionaries inside lists and vice versa.
