@@ -36,15 +36,11 @@ Learned: built a Caesar Cipher program to encrypt and decrypt text using lists, 
 
 Learned: dictionaries and nesting — storing and accessing data using key-value pairs, and nesting dictionaries inside lists and vice versa.
 
-
-
-Day 10
+## Day 10
 
 Built a Calculator program — practiced functions, loops, and handling user input.
 
-
-
-Day 11
+## Day 11
 
 Built a Blackjack game — practiced functions, lists, conditionals, and game logic.
 
