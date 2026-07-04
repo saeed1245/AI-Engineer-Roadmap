@@ -25,10 +25,26 @@ Learned: for loops. Built a random password generator using loops and the random
 Learned: functions and while loops. Practiced using Reeborg's World — solved Hurdle challenges 1 to 4 and the Maze project by combining functions, while loops, and if/elif/else logic to navigate the robot.
 
 ## Day 7
+
 Learned: reviewed while loops, for loops, if/elif/else, and lists by building a Hangman game.
 
 ## Day 8
+
 Learned: built a Caesar Cipher program to encrypt and decrypt text using lists, loops, and the alphabet shift technique.
 
 ## Day 9
+
 Learned: dictionaries and nesting — storing and accessing data using key-value pairs, and nesting dictionaries inside lists and vice versa.
+
+
+
+Day 10
+
+Built a Calculator program — practiced functions, loops, and handling user input.
+
+
+
+Day 11
+
+Built a Blackjack game — practiced functions, lists, conditionals, and game logic.
+
