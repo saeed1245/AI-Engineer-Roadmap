@@ -44,3 +44,6 @@ Built a Calculator program — practiced functions, loops, and handling user inp
 
 Built a Blackjack game — practiced functions, lists, conditionals, and game logic.
 
+## Day 12
+Learned: global scope and variables. Built a Number Guessing Game using global variables and functions.
+
