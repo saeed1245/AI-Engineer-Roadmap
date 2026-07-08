@@ -47,3 +47,5 @@ Built a Blackjack game — practiced functions, lists, conditionals, and game lo
 ## Day 12
 Learned: global scope and variables. Built a Number Guessing Game using global variables and functions.
 
+## Day 13
+Learned: debugging techniques — reading error messages, using print statements to trace code, and fixing common bugs.
