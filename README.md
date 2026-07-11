@@ -49,3 +49,6 @@ Learned: global scope and variables. Built a Number Guessing Game using global v
 
 ## Day 13
 Learned: debugging techniques — reading error messages, using print statements to trace code, and fixing common bugs.
+
+## Day 14
+Built the Higher Lower Game — practiced functions, loops, dictionaries, and game logic to compare which item has more followers.
