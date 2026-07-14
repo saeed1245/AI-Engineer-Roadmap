@@ -52,3 +52,6 @@ Learned: debugging techniques — reading error messages, using print statements
 
 ## Day 14
 Built the Higher Lower Game — practiced functions, loops, dictionaries, and game logic to compare which item has more followers.
+
+## Day 15
+Built a Coffee Machine simulator — practiced nested dictionaries, functions, loops, and handling user input and resources.
