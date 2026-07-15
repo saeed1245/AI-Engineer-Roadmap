@@ -55,3 +55,6 @@ Built the Higher Lower Game — practiced functions, loops, dictionaries, and ga
 
 ## Day 15
 Built a Coffee Machine simulator — practiced nested dictionaries, functions, loops, and handling user input and resources.
+
+## Day 16
+Learned: Object-Oriented Programming (OOP) intro — classes, objects, attributes, and methods.
