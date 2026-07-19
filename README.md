@@ -58,3 +58,6 @@ Built a Coffee Machine simulator — practiced nested dictionaries, functions, l
 
 ## Day 16
 Learned: Object-Oriented Programming (OOP) intro — classes, objects, attributes, and methods.
+
+## Day 17
+Learned: OOP classes with attributes and methods. Built a Quiz Game using classes to manage questions and track the score.
