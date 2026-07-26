@@ -61,3 +61,6 @@ Learned: Object-Oriented Programming (OOP) intro — classes, objects, attribute
 
 ## Day 17
 Learned: OOP classes with attributes and methods. Built a Quiz Game using classes to manage questions and track the score.
+
+## Day 18
+Learned: Turtle graphics and GUI — drawing shapes, using loops and functions with the Turtle module to create visual programs.
