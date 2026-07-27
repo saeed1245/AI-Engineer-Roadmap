@@ -64,3 +64,6 @@ Learned: OOP classes with attributes and methods. Built a Quiz Game using classe
 
 ## Day 18
 Learned: Turtle graphics and GUI — drawing shapes, using loops and functions with the Turtle module to create visual programs.
+
+## Day 19
+Learned: event listeners, higher order functions, state, and multiple object instances with Turtle. Built Etch-a-Sketch and a Turtle Racing game.
