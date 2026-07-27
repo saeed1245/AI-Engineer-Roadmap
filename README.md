@@ -67,3 +67,6 @@ Learned: Turtle graphics and GUI — drawing shapes, using loops and functions w
 
 ## Day 19
 Learned: event listeners, higher order functions, state, and multiple object instances with Turtle. Built Etch-a-Sketch and a Turtle Racing game.
+
+## Day 20
+Built Snake Game (Part 1) — practiced OOP, classes, and Turtle graphics to create the snake movement and screen setup.
