@@ -70,3 +70,6 @@ Learned: event listeners, higher order functions, state, and multiple object ins
 
 ## Day 20
 Built Snake Game (Part 1) — practiced OOP, classes, and Turtle graphics to create the snake movement and screen setup.
+
+## Day 21
+Completed Snake Game (Part 2) — added food, collision detection, and scoreboard using OOP and inheritance.
