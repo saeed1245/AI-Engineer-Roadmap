@@ -73,3 +73,6 @@ Built Snake Game (Part 1) — practiced OOP, classes, and Turtle graphics to cre
 
 ## Day 21
 Completed Snake Game (Part 2) — added food, collision detection, and scoreboard using OOP and inheritance.
+
+## Day 22
+Built the Pong Game — practiced OOP, classes, inheritance, and Turtle graphics to build a two-player paddle game with collision detection and scoreboard.
