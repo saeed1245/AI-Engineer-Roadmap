@@ -77,4 +77,5 @@ Completed Snake Game (Part 2) — added food, collision detection, and scoreboar
 ## Day 22
 Built the Pong Game — practiced OOP, classes, inheritance, and Turtle graphics to build a two-player paddle game with collision detection and scoreboard.
 
-در حال بررسی
+## Day 23
+Built the Turtle Crossing Game — practiced OOP, classes, and Turtle graphics to create a Frogger-style game with increasing difficulty levels.
