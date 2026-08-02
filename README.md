@@ -79,3 +79,6 @@ Built the Pong Game — practiced OOP, classes, inheritance, and Turtle graphics
 
 ## Day 23
 Built the Turtle Crossing Game — practiced OOP, classes, and Turtle graphics to create a Frogger-style game with increasing difficulty levels.
+
+## Day 24
+Learned: file handling, directories, and paths. Built a Mail Merge project — reading and writing files to auto-generate personalized letters.
