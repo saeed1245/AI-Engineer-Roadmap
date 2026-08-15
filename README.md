@@ -84,3 +84,6 @@ Built the Turtle Crossing Game — practiced OOP, classes, and Turtle graphics t
 Learned: file handling, directories, and paths. Built a Mail Merge project — reading and writing files to auto-generate personalized letters.
 ## Day 25
 Learned: working with CSV data and Pandas — reading CSV files, creating and manipulating DataFrames, and analyzing data with Pandas.
+
+## Day 26
+Learned: list comprehension, dictionary comprehension, and iterating over Pandas DataFrames. Built the NATO Alphabet Project and U.S. States Game.
