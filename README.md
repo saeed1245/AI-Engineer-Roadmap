@@ -87,3 +87,6 @@ Learned: working with CSV data and Pandas — reading CSV files, creating and ma
 
 ## Day 26
 Learned: list comprehension, dictionary comprehension, and iterating over Pandas DataFrames. Built the NATO Alphabet Project and U.S. States Game.
+
+## Day 27
+Learned: Tkinter GUI — creating windows and labels, layout managers (pack, place, grid), buttons, entry fields, widgets (radiobuttons, scales, checkbuttons), args/kwargs. Built a Mile to Kilometers Converter.
