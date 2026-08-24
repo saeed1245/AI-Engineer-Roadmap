@@ -90,3 +90,6 @@ Learned: list comprehension, dictionary comprehension, and iterating over Pandas
 
 ## Day 27
 Learned: Tkinter GUI — creating windows and labels, layout managers (pack, place, grid), buttons, entry fields, widgets (radiobuttons, scales, checkbuttons), args/kwargs. Built a Mile to Kilometers Converter.
+
+## Day 28
+Learned: Tkinter Canvas widget, adding images, dynamic typing, countdown mechanism, and checkmarks. Built a Pomodoro Timer app with a full UI.
