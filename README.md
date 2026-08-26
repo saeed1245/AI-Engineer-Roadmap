@@ -93,3 +93,6 @@ Learned: Tkinter GUI — creating windows and labels, layout managers (pack, pla
 
 ## Day 28
 Learned: Tkinter Canvas widget, adding images, dynamic typing, countdown mechanism, and checkmarks. Built a Pomodoro Timer app with a full UI.
+
+## Day 29
+Learned: Tkinter grid layout, images on canvas, dialog boxes and pop-ups, saving data to file, and clipboard integration. Built a Password Manager app.
