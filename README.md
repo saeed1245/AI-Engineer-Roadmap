@@ -102,3 +102,6 @@ Learned: exception handling (try/catch/except/finally), raising custom exception
 
 ## Day 31
 Built a Flash Card App — practiced Tkinter UI, flipping cards, creating new flash cards, and saving progress to file.
+
+## Day 32
+Learned: sending emails with SMTP, working with the datetime module, and running Python in the cloud. Built an Automated Birthday Wisher and a Monday Motivational Quote sender.
