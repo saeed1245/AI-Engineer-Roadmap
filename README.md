@@ -105,3 +105,6 @@ Built a Flash Card App — practiced Tkinter UI, flipping cards, creating new fl
 
 ## Day 32
 Learned: sending emails with SMTP, working with the datetime module, and running Python in the cloud. Built an Automated Birthday Wisher and a Monday Motivational Quote sender.
+
+## Day 33
+Learned: APIs, endpoints, making API calls, HTTP response codes, handling JSON data, and API parameters. Built a Kanye Quotes App and an ISS Overhead Notifier that sends an email when the ISS passes overhead at night.
