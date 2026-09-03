@@ -109,4 +109,8 @@ Learned: sending emails with SMTP, working with the datetime module, and running
 ## Day 33
 Learned: APIs, endpoints, making API calls, HTTP response codes, handling JSON data, and API parameters. Built a Kanye Quotes App and an ISS Overhead Notifier that sends an email when the ISS passes overhead at night.
 
+## Day 34
+Learned: type hints, class-based Tkinter UI, unescaping HTML entities, and working with a Trivia API. Built a GUI Quiz App with score tracking and feedback.
+
+
 
