@@ -114,3 +114,6 @@ Learned: type hints, class-based Tkinter UI, unescaping HTML entities, and worki
 
 ## Day 35
 Learned: API authentication, hiding API keys with environment variables, sending SMS via Twilio API, and automating scripts with PythonAnywhere. Built a Rain Alert that sends an SMS if rain is expected in the next 12 hours using OpenWeatherMap API.
+
+## Day 36
+Built a Stock Trading News Alert — checks for stock price movements, fetches related news articles, and sends SMS notifications via Twilio.
