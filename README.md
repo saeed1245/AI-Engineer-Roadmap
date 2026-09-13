@@ -112,5 +112,5 @@ Learned: APIs, endpoints, making API calls, HTTP response codes, handling JSON d
 ## Day 34
 Learned: type hints, class-based Tkinter UI, unescaping HTML entities, and working with a Trivia API. Built a GUI Quiz App with score tracking and feedback.
 
-
-
+## Day 35
+Learned: API authentication, hiding API keys with environment variables, sending SMS via Twilio API, and automating scripts with PythonAnywhere. Built a Rain Alert that sends an SMS if rain is expected in the next 12 hours using OpenWeatherMap API.
