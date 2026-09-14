@@ -117,3 +117,6 @@ Learned: API authentication, hiding API keys with environment variables, sending
 
 ## Day 36
 Built a Stock Trading News Alert — checks for stock price movements, fetches related news articles, and sends SMS notifications via Twilio.
+
+## Day 37
+Learned: HTTP POST, PUT, and DELETE requests, advanced authentication with HTTP headers, and date formatting with strftime. Built a Habit Tracker using the Pixela API.
