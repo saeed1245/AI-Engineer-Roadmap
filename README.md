@@ -98,7 +98,7 @@ Learned: Tkinter Canvas widget, adding images, dynamic typing, countdown mechani
 Learned: Tkinter grid layout, images on canvas, dialog boxes and pop-ups, saving data to file, and clipboard integration. Built a Password Manager app.
 
 ## Day 30
-Learned: exception handling (try/catch/except/finally), raising custom exceptions, reading/writing JSON data. Extended the Password Manager with search functionality and JSON storage.
+Learned: exception handling (try/except/else/finally), raising custom exceptions, reading/writing JSON data. Extended the Password Manager with search functionality and JSON storage.
 
 ## Day 31
 Built a Flash Card App — practiced Tkinter UI, flipping cards, creating new flash cards, and saving progress to file.
