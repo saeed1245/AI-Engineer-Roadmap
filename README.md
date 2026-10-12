@@ -120,3 +120,6 @@ Built a Stock Trading News Alert — checks for stock price movements, fetches r
 
 ## Day 37
 Learned: HTTP POST, PUT, and DELETE requests, advanced authentication with HTTP headers, and date formatting with strftime. Built a Habit Tracker using the Pixela API.
+
+## Day 39
+Learned: Working with GET and PUT requests, API authentication using headers, environment variables, and updating Google Sheets through the Sheety API. Built part of a Flight Deal Finder using the Ignav API to retrieve airport IATA codes.
