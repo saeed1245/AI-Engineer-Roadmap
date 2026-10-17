@@ -126,3 +126,6 @@ Learned: Working with APIs, HTTP POST requests, API authentication using headers
 
 ## Day 39
 Learned: Working with GET and PUT requests, API authentication using headers, environment variables, and updating Google Sheets through the Sheety API. Built part of a Flight Deal Finder using the Ignav API to retrieve airport IATA codes.
+
+## Day 40
+Extended the Flight Deal Finder into a multi-user Flight Club — added user sign-up with validation, stored customers in Google Sheets via Sheety, and emailed all users with the latest flight deals using SMTP.
