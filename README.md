@@ -132,3 +132,6 @@ Extended the Flight Deal Finder into a multi-user Flight Club — added user sig
 
 ## Day 41
 Started web development — learned how the internet works, how websites work, and HTML basics (headings, paragraphs, void elements). Built a Movie Ranking page.
+
+## Day 42
+Learned: HTML boilerplate, list elements, nesting and indentation, anchor elements, and image elements. Built a Birthday Invite Website.
