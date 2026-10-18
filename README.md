@@ -129,3 +129,6 @@ Learned: Working with GET and PUT requests, API authentication using headers, en
 
 ## Day 40
 Extended the Flight Deal Finder into a multi-user Flight Club — added user sign-up with validation, stored customers in Google Sheets via Sheety, and emailed all users with the latest flight deals using SMTP.
+
+## Day 41
+Started web development — learned how the internet works, how websites work, and HTML basics (headings, paragraphs, void elements). Built a Movie Ranking page.
