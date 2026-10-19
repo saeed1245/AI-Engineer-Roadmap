@@ -135,3 +135,6 @@ Started web development — learned how the internet works, how websites work, a
 
 ## Day 42
 Learned: HTML boilerplate, list elements, nesting and indentation, anchor elements, and image elements. Built a Birthday Invite Website.
+
+## Day 43
+Learned: CSS basics — why CSS exists, inline/internal/external styling, and CSS selectors (element, class, ID, attribute, universal). Built a Color Vocab Website to learn Spanish color words using styled images and ID-based text coloring.
