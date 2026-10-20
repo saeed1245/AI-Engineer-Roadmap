@@ -138,3 +138,6 @@ Learned: HTML boilerplate, list elements, nesting and indentation, anchor elemen
 
 ## Day 43
 Learned: CSS basics — why CSS exists, inline/internal/external styling, and CSS selectors (element, class, ID, attribute, universal). Built a Color Vocab Website to learn Spanish color words using styled images and ID-based text coloring.
+
+## Day 44
+Learned: CSS colors (named colors, hex codes), font properties (font-size, font-weight, font-family, Google Fonts, text-align, px/pt/em/rem units), CSS Box Model (margin, padding, border, div). Built a Motivational Poster Website.
