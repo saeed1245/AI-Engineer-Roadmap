@@ -141,3 +141,6 @@ Learned: CSS basics — why CSS exists, inline/internal/external styling, and CS
 
 ## Day 44
 Learned: CSS colors (named colors, hex codes), font properties (font-size, font-weight, font-family, Google Fonts, text-align, px/pt/em/rem units), CSS Box Model (margin, padding, border, div). Built a Motivational Poster Website.
+
+## Day 45
+Learned: web scraping with BeautifulSoup — parsing HTML, finding and selecting elements, scraping a live website. Built a 100 Movies You Must Watch scraper.
