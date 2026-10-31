@@ -142,5 +142,8 @@ Learned: CSS basics — why CSS exists, inline/internal/external styling, and CS
 ## Day 44
 Learned: CSS colors (named colors, hex codes), font properties (font-size, font-weight, font-family, Google Fonts, text-align, px/pt/em/rem units), CSS Box Model (margin, padding, border, div). Built a Motivational Poster Website.
 
+## Day 46
+Built a Musical Time Machine — scraped Billboard Hot 100 for a chosen date using BeautifulSoup, then used the Spotify API to create a playlist of those top 100 songs automatically.
+
 ## Day 45
 Learned: web scraping with BeautifulSoup — parsing HTML, finding and selecting elements, scraping a live website. Built a 100 Movies You Must Watch scraper.
