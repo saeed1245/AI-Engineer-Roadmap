@@ -147,3 +147,6 @@ Learned: web scraping with BeautifulSoup — parsing HTML, finding and selecting
 
 ## Day 46
 Built a Musical Time Machine — scraped Billboard Hot 100 for a chosen date using BeautifulSoup, then used the Spotify API to create a playlist of those top 100 songs automatically.
+
+## Day 47
+Built an Amazon Price Tracker — scraped product prices using BeautifulSoup and sent an automated email alert via SMTP when the price drops below a target threshold.
