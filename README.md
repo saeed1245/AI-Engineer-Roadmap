@@ -150,3 +150,22 @@ Built a Musical Time Machine — scraped Billboard Hot 100 for a chosen date usi
 
 ## Day 47
 Built an Amazon Price Tracker — scraped product prices using BeautifulSoup and sent an automated email alert via SMTP when the price drops below a target threshold.
+
+## Day 48
+Learned: Selenium WebDriver — browser automation, finding and selecting elements (CSS selectors, XPath, By.NAME), clicking buttons, typing into forms, and using the Keys class. Built a Cookie Clicker bot to automate gameplay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
