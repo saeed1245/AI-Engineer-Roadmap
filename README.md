@@ -154,7 +154,8 @@ Built an Amazon Price Tracker — scraped product prices using BeautifulSoup and
 ## Day 48
 Learned: Selenium WebDriver — browser automation, finding and selecting elements (CSS selectors, XPath, By.NAME), clicking buttons, typing into forms, and using the Keys class. Built a Cookie Clicker bot to automate gameplay.
 
-
+## Day 49
+Built a Gym Class Booking Bot — used Selenium with persistent Chrome profiles to auto-login, book Tuesday/Thursday 6pm classes, handle waitlists, verify bookings on the My Bookings page, and added retry logic for network failures.
 
 
 
